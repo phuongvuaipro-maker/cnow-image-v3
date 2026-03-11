@@ -1,0 +1,5 @@
+{
+  "name": "Remix: CNOW Auto Image Builder",
+  "description": "Automatically generates marketing images from text and overlays the CNOW logo.",
+  "requestFramePermissions": []
+}
